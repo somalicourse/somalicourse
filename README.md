@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Najiib Rashiid Abdi</h1>
-<h3 align="center">I am a data scientist and machine learning engineer with a strong background in full-stack development. Since starting my journey in 2020, I have honed my skills in utilizing Python frameworks such as Django, TensorFlow, scikit-learn, pandas, NumPy, matplotlib, and seaborn to develop robust and scalable solutions. With my expertise in both data science and full-stack development, I am well-equipped to tackle complex projects and deliver impactful results. Share Prompt</h3>
+<h3 align="center">I am a data scientist and machine learning engineer with a strong background in full-stack development. Since starting my journey in 2020, I have honed my skills in utilizing Python frameworks such as Django, TensorFlow, scikit-learn, pandas, NumPy, matplotlib, and seaborn to develop robust and scalable solutions. With my expertise in both data science and full-stack development, I am well-equipped to tackle complex projects and deliver impactful results.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somalicourse&label=Profile%20views&color=0e75b6&style=flat" alt="somalicourse" /> </p>
 
